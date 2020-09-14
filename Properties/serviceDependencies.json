@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "storage1": {
+      "type": "storage",
+      "connectionId": "connect-blob"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "RazorPageDemo2Context"
+    }
+  }
+}
